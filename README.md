@@ -20,6 +20,7 @@ Kasper is built with the following technologies:
 - CSS
 - Flexbox
 - CSS Grid
+- Responsive Design
 
 These technologies contribute to the project's structure, styling, and layout, showcasing a blend of modern web development techniques. Feel free to explore and modify the code to adapt it to your preferences.
 
